@@ -1,1 +1,11 @@
-<iframe src="http://api:8000/"></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WeasyPrint PDF Test</title>
+    <link rel=attachment href="file:///{path_to_secret_file}">
+</head>
+<body>
+    <h1>WeasyPrint PDF Test</h1>
+</body>
+</html>
